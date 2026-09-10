@@ -10,6 +10,4 @@ font = "sans serif"
 gatherUsageStats = false
 
 [server]
-port = 8502
-address = "127.0.0.1"
 maxUploadSize = 10
