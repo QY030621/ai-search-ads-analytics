@@ -2,6 +2,8 @@
 
 **Personal Project / Simulated Dataset**
 
+🚀 **[Live Demo](https://ai-search-ads-analytics.streamlit.app/)**
+
 基于模拟 Google Search Ads 数据，展示“发现异常 → 查看证据 → 判断边界 → 安排核查与实验”的广告分析流程。
 
 ![Product Overview — LumaNest 模拟广告分析助手](docs/images/01-overview.png)
